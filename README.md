@@ -1,2 +1,2 @@
 # fastai
-fast.ai 2022 course attempt
+fast.ai - Practical Deep Learning for Coders 2022 Course Attempt
